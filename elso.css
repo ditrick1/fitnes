@@ -1,0 +1,15 @@
+p{
+    margin-left: 60px;
+    letter-spacing: 5px;
+}
+
+.cim{
+    margin-left: 40px;
+    color: blue;
+}
+
+main{
+    background-image: url(/bicikli.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
